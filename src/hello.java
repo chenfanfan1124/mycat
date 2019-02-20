@@ -8,13 +8,12 @@ public class hello {
 
 
 
-        System.out.println("hellsdffdds");
-        System.out.println("gagag");
+
         System.out.println("hello java");
         System.out.println("hello java");
         System.out.println("hello java");
-        System.out.println("hello java");
-        System.out.println("hello java");
+        System.out.println("hea");
+        System.out.println("helava");
         System.out.println("hello java");
         System.out.println("hello java");
 
