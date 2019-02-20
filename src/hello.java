@@ -9,6 +9,14 @@ public class hello {
 
 
 
+
+        System.out.println("hello java");
+        System.out.println("hello java");
+
+
+        System.out.println("hello java");
+        System.out.println("hea");
+        System.out.println("helava");
         System.out.println("hello java");
         System.out.println("hello java");
 
