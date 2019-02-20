@@ -4,12 +4,8 @@ public class hi {
         System.out.println("dsffsdfsdf");
         System.out.println("dsffsdfsdf");
 
-        System.out.println("fdfsdfgfdgf");
-        System.out.println("fdrrrrrrr");
-
-        System.out.println("dfdsf");
-        System.out.println("dsffgffggggsdfsdf");
-
+       int i=10;
+       int b=20;
 
 
     }
