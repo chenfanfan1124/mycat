@@ -4,9 +4,18 @@ public class hi {
         System.out.println("dsffsdfsdf");
         System.out.println("dsffsdfsdf");
 
+
        int i=10;
        int b=20;
 
+        System.out.println("dfdsf");
+        System.out.println("dsffgffggggsdfsdf");
+
+
+
+    }
+
+    public void chen(){
 
     }
 
