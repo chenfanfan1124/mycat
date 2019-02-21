@@ -5,6 +5,6 @@ public class ooo {
     }
 
     public static void chen(){
-        "dfsdfsdfsdf".equals("gdgdfg");
+        int i=2651312;
     }
 }
