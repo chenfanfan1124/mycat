@@ -8,5 +8,9 @@ public class bbbb {
        System.out.println("dfsdfs");
    }
 
+    public void test4(){
+        System.out.println("dfsdfs");
+    }
+
 
 }
