@@ -4,10 +4,18 @@ public class ooo {
         System.out.println("sdgdg");
         System.out.println("sdgdg");
         System.out.println("sdgdg");
-        System.out.println("sdgdg");
-        System.out.println("sdgdg");
-        System.out.println("sdgdg");
-        System.out.println("sdgdg");
+
+
+    }
+
+    public void maan(){
+        System.out.println("5135131");
+        System.out.println("5135131");
+        System.out.println("5135131");
+        System.out.println("5135131");System.out.println("5135131");
+        System.out.println("5135131");
+        System.out.println("5135131");
+
 
     }
 
