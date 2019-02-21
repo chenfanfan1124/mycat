@@ -4,15 +4,4 @@ public class ttttt {
         System.out.println("fsdfsd");
     }
 
-    public static void main(String[] args) {
-        System.out.println("fsdfsd");
-    }
-    public static void main1(String[] args) {
-        System.out.println("fsdfsd");
-    }
-    public static void main4(String[] args) {
-        System.out.println("fsdfsd");
-    }
-
-
 }
