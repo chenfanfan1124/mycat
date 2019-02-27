@@ -13,5 +13,7 @@ public class chenfafna {
         System.out.println("fsdfgdfgdfgdfgd");
     }
 
-
+    public static void main5585(String[] args) {
+        System.out.println("fsdfgdfgdfgdfgd");
+    }
 }
