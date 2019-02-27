@@ -5,6 +5,11 @@ public class chenfafna {
         System.out.println("fan");
         System.out.println("fan");
 
+        System.out.println("fan");
+        System.out.println("fan");
+        System.out.println("fan");
+        System.out.println("fan");
+
 
 
 
