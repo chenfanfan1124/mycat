@@ -10,9 +10,10 @@ public class chenfafna {
         System.out.println("dfsdfsdf");
     }
 
-    public void ee25353(){
+
+
+    public void demo1(){
         System.out.println("dfsdfsdf");
     }
-
 
 }
