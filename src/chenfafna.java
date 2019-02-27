@@ -2,15 +2,24 @@ public class chenfafna {
 
 
 
-    public void ee(){
-        System.out.println("dfsdfsdf");
+    public static void main(String[] args) {
+        System.out.println("fsdfgdfgdfgdfgd");
     }
+
 
     public void ee2(){
         System.out.println("dfsdfsdf");
     }
 
-    public void ee3(){
+    public void ee25353(){
         System.out.println("dfsdfsdf");
     }
+
+
+    public static void main3(String[] args) {
+        System.out.println("fsdfgdfgdfgdfgd");
+    }
+
+
+
 }
