@@ -16,14 +16,18 @@ public class chenfafna {
     }
 
 
-    public static void main3(String[] args) {
-        System.out.println("fsdfgdfgdfgdfgd");
-    }
-
     public static void main7(String[] args) {
         System.out.println("fsdfgdfgdfgdfgd");
 
 
     }
+
+    public static void main3(String[] args) {
+        System.out.println("fsdfgdfgdfgdfgd");
+    }
+
+
+
+
 
 }
