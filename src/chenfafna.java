@@ -2,18 +2,21 @@ public class chenfafna {
 
 
     public static void main(String[] args) {
-        System.out.println("fsdfgdfgdfgdfgd");
-    }
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
+        System.out.println("chen");
 
-
-    public void ee2(){
-        System.out.println("dfsdfsdf");
-    }
-
-
-
-    public void demo1(){
-        System.out.println("dfsdfsdf");
     }
 
 }
