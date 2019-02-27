@@ -6,6 +6,7 @@ public class chushi {
 
     public static void main5(String[] args) {
         System.out.println("初始化了");
+
     }
 
 
