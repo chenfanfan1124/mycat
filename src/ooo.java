@@ -11,16 +11,16 @@ public class ooo {
 
     public void maan(){
         System.out.println("5135131");
-        System.out.println("5135131");
-        System.out.println("5135131");
-        System.out.println("5135131");System.out.println("5135131");
-        System.out.println("5135131");
-        System.out.println("5135131");
+
 
 
     }
 
     public void test(){
+        System.out.println("哥哥哥哥哥哥");
+    }
+
+    public void test3(){
         System.out.println("哥哥哥哥哥哥");
     }
 
