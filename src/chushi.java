@@ -4,9 +4,5 @@ public class chushi {
         System.out.println("初始化了");
     }
 
-    public static void mainjl(String[] args) {
-        System.out.println("初始化了");
-
-    }
 
 }
