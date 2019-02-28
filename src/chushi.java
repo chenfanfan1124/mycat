@@ -4,7 +4,17 @@ public class chushi {
         System.out.println("初始化了");
     }
 
-    public static void main5(String[] args) {
+    public static void mainjl(String[] args) {
+        System.out.println("初始化了");
+
+    }
+
+    public static void main9(String[] args) {
+        System.out.println("初始化了");
+
+    }
+
+    public static void main755(String[] args) {
         System.out.println("初始化了");
 
     }
