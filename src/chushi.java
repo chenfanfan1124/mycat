@@ -4,5 +4,4 @@ public class chushi {
         System.out.println("初始化了");
     }
 
-
 }
